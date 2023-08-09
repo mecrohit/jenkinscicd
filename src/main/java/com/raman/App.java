@@ -1,7 +1,7 @@
 package com.raman;
 
 /**
- * Hello world!
+ * world!
  *
  */
 public class App 
